@@ -2,4 +2,10 @@
 builds:
   02baf167-fb9c-4c65-8f7f-7159ad372ef2:
     version: 1.0-alpha.0
+  e99bf312-bb97-4198-b544-248c855e66a7:
+    version: '1.1'
+  79647576-a06b-49ce-ba0c-79ba4b61d6bb:
+    version: 1.1-alpha.0
+  55e98fea-089d-4aec-9f80-3d6dfa658ee0:
+    version: 1.2-alpha.0
 format-version: '2'
